@@ -10,4 +10,8 @@ public class SampleController {
     public String ex1(){
         return "Hello";
     }
+    @GetMapping("/d")
+    public String ex2(){
+        return "Hello";
+    }
 }
