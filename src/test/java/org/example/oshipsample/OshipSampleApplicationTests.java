@@ -12,4 +12,9 @@ class OshipSampleApplicationTests {
         System.out.println("test");
     }
 
+    @Test
+    void sample(){
+        throw new RuntimeException();
+    }
+
 }
