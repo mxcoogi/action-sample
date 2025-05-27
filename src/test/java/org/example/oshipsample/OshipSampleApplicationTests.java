@@ -9,6 +9,7 @@ class OshipSampleApplicationTests {
     @Test
     void contextLoads() {
         System.out.println("sample-test");
+        System.out.println("test");
     }
 
 }
